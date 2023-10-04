@@ -1,4 +1,4 @@
- if [ -d graph-cache/ ]; 
+ if ! [ -d graph-cache/ ]; 
  then 
 	wget -c https://osmit-estratti.wmcloud.org/dati/poly/comuni/pbf/022205_Trento.osm.pbf;
  	wget -c https://repo1.maven.org/maven2/com/graphhopper/graphhopper-web/7.0/graphhopper-web-7.0.jar;
