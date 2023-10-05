@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<gpx xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxedw="http://www.gpxeditor.co.uk/xmlschemas/WaypointExtension/v1" xmlns:gpxedts="http://www.gpxeditor.co.uk/xmlschemas/TrackSegExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="GPXEditor" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Journey</name>
+    <trkseg>
+      <trkpt lat="46.06676" lon="11.11954" />
+      <trkpt lat="46.06677" lon="11.12024" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06677" lon="11.12024" />
+      <trkpt lat="46.06607" lon="11.12035" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06607" lon="11.12035" />
+      <trkpt lat="46.06618" lon="11.12109" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06618" lon="11.12109" />
+      <trkpt lat="46.06552" lon="11.12118" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06552" lon="11.12118" />
+      <trkpt lat="46.06542" lon="11.12173" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06542" lon="11.12173" />
+      <trkpt lat="46.0653" lon="11.12244" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.0653" lon="11.12244" />
+      <trkpt lat="46.06525" lon="11.12281" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06525" lon="11.12281" />
+      <trkpt lat="46.06529" lon="11.12299" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06529" lon="11.12299" />
+      <trkpt lat="46.06534" lon="11.12313" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06534" lon="11.12313" />
+      <trkpt lat="46.06578" lon="11.12299" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06578" lon="11.12299" />
+      <trkpt lat="46.06622" lon="11.12274" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06622" lon="11.12274" />
+      <trkpt lat="46.06678" lon="11.12229" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06678" lon="11.12229" />
+      <trkpt lat="46.06696" lon="11.12333" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06696" lon="11.12333" />
+      <trkpt lat="46.06734" lon="11.12325" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06734" lon="11.12325" />
+      <trkpt lat="46.06738" lon="11.12402" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06738" lon="11.12402" />
+      <trkpt lat="46.06773" lon="11.12404" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06773" lon="11.12404" />
+      <trkpt lat="46.06826" lon="11.12387" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06826" lon="11.12387" />
+      <trkpt lat="46.06834" lon="11.12395" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06834" lon="11.12395" />
+      <trkpt lat="46.06837" lon="11.12432" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06837" lon="11.12432" />
+      <trkpt lat="46.06836" lon="11.12514" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06836" lon="11.12514" />
+      <trkpt lat="46.06879" lon="11.12593" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06879" lon="11.12593" />
+      <trkpt lat="46.06898" lon="11.12589" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06898" lon="11.12589" />
+      <trkpt lat="46.0693" lon="11.12628" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.0693" lon="11.12628" />
+      <trkpt lat="46.06938" lon="11.12645" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06938" lon="11.12645" />
+      <trkpt lat="46.06961" lon="11.12719" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06961" lon="11.12719" />
+      <trkpt lat="46.06992" lon="11.12735" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06992" lon="11.12735" />
+      <trkpt lat="46.06994" lon="11.12775" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06994" lon="11.12775" />
+      <trkpt lat="46.06997" lon="11.12807" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.06997" lon="11.12807" />
+      <trkpt lat="46.06958" lon="11.12794" />
+    </trkseg>
+  </trk>
+</gpx>
